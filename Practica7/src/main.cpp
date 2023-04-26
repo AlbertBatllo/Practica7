@@ -6,7 +6,7 @@
 
 AudioFileSourcePROGMEM *in;
 AudioGeneratorAAC *aac;
-AudioOutputI2S *out;
+AudioOutputI2S *out; 
 
 void setup(){
 
